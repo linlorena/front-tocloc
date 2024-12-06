@@ -1,0 +1,39 @@
+[
+    {
+      "pergunta": "Como faço uma reserva?",
+      "resposta": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas erat at vestibulum cursus. Quisque neque urna, pellentesque viverra lectus vel, imperdiet finibus augue. Maecenas pellentesque pharetra condimentum. Pellentesque libero massa, aliquet quis nisi sed, viverra accumsan tellus. Vestibulum consequat risus sed lobortis auctor. Aenean vel orci eget quam pharetra eleifend. Proin eu eros a elit sagittis viverra ac sed sem. Donec pellentesque sagittis tellus, finibus lobortis erat laoreet sed. Cras et velit neque. Nullam dapibus orci vitae sem tempus molestie. Phasellus consequat accumsan ex, eget fringilla ligula scelerisque at. Aenean volutpat sodales lacus vitae lacinia. Vivamus sed dictum tortor. Vivamus aliquet ac turpis ullamcorper facilisis."
+    },
+    {
+      "pergunta": "Posso cancelar minha reserva?",
+      "resposta": "Nam at cursus orci, at facilisis est. Phasellus viverra enim non ullamcorper hendrerit. Sed porttitor finibus neque at molestie. Pellentesque ac malesuada sapien, eu posuere lorem. Aliquam auctor nisl a elit fringilla faucibus. Etiam lacinia, massa sed lobortis ullamcorper, neque ipsum accumsan diam, vitae laoreet tellus tortor vitae nibh. Pellentesque nec rhoncus erat, non sollicitudin metus. Quisque sodales commodo urna sed placerat. "
+    },
+    {
+        "pergunta": "Como faço para modificar uma reserva existente?",
+        "resposta": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt tincidunt lobortis. Donec ac est nulla. Curabitur mauris nulla, condimentum non bibendum vel, condimentum ac mi. Donec vitae varius sem. Vivamus ullamcorper quam id egestas auctor. Ut gravida ligula placerat facilisis faucibus."
+      },
+      {
+        "pergunta": "O que acontece se eu não comparecer à reserva?",
+        "resposta": "Nam accumsan eget nisi quis pharetra. Proin in orci magna. Etiam imperdiet faucibus lectus, non feugiat augue laoreet sit amet. In hac habitasse platea dictumst. Curabitur facilisis orci magna, in ullamcorper felis efficitur non. Aliquam quis ante id ligula mattis varius. In euismod cursus ante, eu posuere odio euismod non. "
+      },
+      {
+        "pergunta": "Quando serei cobrado pela reserva?",
+        "resposta": "Aliquam vitae ligula ut nibh fermentum mollis quis nec urna. Proin orci ante, euismod hendrerit mi vel, posuere rutrum diam. Phasellus auctor sem id ligula efficitur vulputate nec in lacus. Aenean imperdiet ipsum nunc, ut dignissim libero dapibus vitae. Fusce iaculis diam urna, eget malesuada nibh rutrum at. Vivamus quis magna et turpis scelerisque tempus. Aenean sagittis ex non vulputate accumsan. Nulla facilisi."
+      },
+      {
+        "pergunta": "Posso reservar uma quadra sem cartão de crédito?",
+        "resposta": "Vestibulum maximus enim id ex feugiat rutrum. Proin congue commodo lorem vitae maximus. Sed quis turpis malesuada, placerat lectus vitae, accumsan dolor. "
+      },
+      {
+        "pergunta": "Como posso verificar o status da minha reserva?",
+        "resposta": "Suspendisse mattis, lectus nec consectetur fringilla, velit leo interdum urna, vel volutpat risus tellus fermentum elit. Proin non fringilla eros, non vulputate ex. Cras iaculis sollicitudin imperdiet. Morbi bibendum augue in massa iaculis, et consectetur lectus interdum. Sed orci ipsum, pellentesque vel vulputate vitae, molestie eu nibh. Nam ac finibus tortor."
+      },
+      {
+        "pergunta": "Há custos adicionais além do valor da reserva?",
+        "resposta": "Etiam consequat tellus nec massa euismod rutrum. Vestibulum ac arcu eu ex sollicitudin viverra. Nullam sed pharetra lacus. Praesent sit amet consequat lacus. Etiam pretium leo nec porttitor ultrices. Sed erat sem, cursus eget nibh nec, commodo sagittis velit. Pellentesque quis mauris porttitor, porta lectus sit amet, vehicula dui. "
+      },
+      {
+        "pergunta": "Como faço para entrar em contato com a quadra?",
+        "resposta": "Aenean nec sapien elit. Mauris sagittis tellus eu massa cursus volutpat. Quisque lacinia ornare nibh sit amet auctor. Suspendisse sit amet est augue. Mauris interdum faucibus luctus. Quisque molestie lacinia sodales. Suspendisse ut convallis magna. Etiam mollis est sed orci porttitor, maximus faucibus nulla malesuada. Etiam facilisis semper risus, vitae semper eros molestie a."
+      }
+  ]
+  

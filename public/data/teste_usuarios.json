@@ -1,0 +1,21 @@
+{
+    "title": "Dados dos Usuarios",
+    "description": "Armazenamento de Dados dos Usuarios em JSON",
+    "items": [
+      {
+        "id": 1,
+        "username": "klausseitz",
+        "password": "4r@uc4r!@"
+      },
+      {
+        "id": 2,
+        "username": "nebikallistos",
+        "password": "querocafe"
+      },
+      {
+        "id": 3,
+        "name": "Item 3",
+        "price": 9.99
+      }
+    ]
+  }
